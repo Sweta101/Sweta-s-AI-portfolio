@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 };
 
 const RESUME_FILE = "Sweta_Kumari_Resume.pdf";
-const RESUME_HREF = `/resume/${RESUME_FILE}?v=2026-07-23c`;
+const RESUME_HREF = `/resume/${RESUME_FILE}?v=2026-07-23d`;
 
 export default function ResumePage() {
   const resumePath = path.join(process.cwd(), "public", "resume", RESUME_FILE);
