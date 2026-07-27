@@ -6,7 +6,7 @@ export const profile = {
   intro:
     "I create AI assistants, predictive analytics, executive dashboards, and intelligent automation that help companies understand customers, optimize pipelines, and accelerate growth.",
   summary:
-    "GTM and Revenue Operations professional with 5 years of experience in sales strategy, funnel analytics, CRM operations, and revenue systems. Currently Manager, Revenue Operations & GTM Strategy. I translate GTM problems into technical solutions using Python, SQL, CRM platforms, Power BI, lead scoring, and AI automation. Proven impact includes scaling a business vertical from ₹0 to ₹70 Cr, reducing CAC by 38%, improving MQL conversion by 20%, cutting lead response time by 82%, and shipping live AI tools for lead engagement and sales enablement.",
+    "GTM and Revenue Operations professional with 5 years of experience in sales strategy, funnel analytics, CRM operations, and revenue systems. Currently Sales Analyst at Presbyterian Living. I translate GTM problems into technical solutions using Python, SQL, CRM platforms, Power BI, lead scoring, and AI automation. Proven impact includes scaling a business vertical from ₹0 to ₹70 Cr, reducing CAC by 38%, improving MQL conversion by 20%, cutting lead response time by 82%, and shipping live AI tools for lead engagement and sales enablement.",
   location: "San Jose, California",
   email: "sweta.k0906@gmail.com",
   phone: "+1-814-280-3425",

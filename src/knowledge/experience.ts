@@ -13,7 +13,7 @@ export type ExperienceItem = {
 export const experience: ExperienceItem[] = [
   {
     id: "presbyterian-living",
-    title: "Manager, Revenue Operations & GTM Strategy",
+    title: "Sales Analyst",
     company: "Presbyterian Living",
     location: "Skokie, IL",
     start: "January 2026",
@@ -57,7 +57,7 @@ export const experience: ExperienceItem[] = [
   },
   {
     id: "upgrad",
-    title: "GTM Strategy & Growth Operations Lead",
+    title: "Sales and Strategy Manager",
     company: "upGrad",
     location: "Bangalore, KA",
     start: "September 2021",
@@ -67,7 +67,6 @@ export const experience: ExperienceItem[] = [
       "Learning Consultant",
       "Senior Learning Consultant",
       "Principal Learning Consultant",
-      "Sales & Strategy Manager",
     ],
     highlights: [
       "Promoted 4 times in approximately 2 years.",
@@ -84,8 +83,8 @@ export const experience: ExperienceItem[] = [
     title: "Senior Inside Sales Manager",
     company: "Simplilearn",
     location: "Bangalore, KA",
-    start: "June 2020",
-    end: "June 2021",
+    start: "July 2021",
+    end: "August 2021",
     type: "full-time",
     highlights: [
       "Focused on consultative sales for technology education programs.",

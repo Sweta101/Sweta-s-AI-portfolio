@@ -124,7 +124,7 @@ export function Hero() {
                     Sweta Kumari
                   </p>
                   <p className="mt-1 text-base text-[var(--muted)]">
-                    Manager, RevOps & GTM Strategy
+                    Sales Analyst
                   </p>
                   <p className="text-sm text-cyan-300/90">
                     Targeting GTM Engineer · Sales Analyst · RevOps

@@ -9,7 +9,7 @@ export const faq = [
   },
   {
     q: "What is Sweta’s current professional experience?",
-    a: "I’m Manager, Revenue Operations & GTM Strategy at Presbyterian Living (January 2026 to Present). I own RevOps and GTM systems: executive Power BI dashboards, predictive lead scoring, sales funnel KPIs, and AI tools that support lead engagement and affordability conversations for the sales team.",
+    a: "I’m Sales Analyst at Presbyterian Living (January 2026 to Present). I own sales analytics and GTM systems: executive Power BI dashboards, predictive lead scoring, sales funnel KPIs, and AI tools that support lead engagement and affordability conversations for the sales team.",
   },
   {
     q: "How does she improve sales pipeline and conversion?",
